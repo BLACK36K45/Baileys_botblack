@@ -6,12 +6,17 @@
   # ⧼ 𝐆𝐎𝐉𝐎 𝐁𝐎𝐓 🕷️ ⧽
   ### *مكتبة بوتات الواتساب الأقوى بالذكاء الاصطناعي*
   
-  ![GitHub stars](https://img.shields.io/github/stars/noureddine_ouafy/GOJO-BOT?style=for-the-badge&color=gold)
-  ![GitHub forks](https://img.shields.io/github/forks/noureddine_ouafy/GOJO-BOT?style=for-the-badge&color=blue)
+  ![GitHub stars](https://github.com/gjllljgkpmlkvvhomkhkmkghllk-commits/Baileys_Yono/edit/main/README.md)
+  ![GitHub forks](https://github.com/gjllljgkpmlkvvhomkhkmkghllk-commits/Baileys_Yono/edit/main/README.md)
   ![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)
 </div>
 
 * ━ ╼╃ ⌬〔 𝐆𝐎𝐉𝐎 〕⌬ ╄╾ ━ *
+
+## 📢 ──¤﹝ الـروابـط الـرسمـيـة ↶ 🔗﹞
+
+[![قناة GOJO الرسمية](https://img.shields.io/badge/قناة_الواتساب-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbDd8Iw5Ejxwlvjl3l1r)
+[![تواصل مع المطور](https://img.shields.io/badge/المطور-212674375708-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212674375708)
 
 ## 🪖 ──¤﹝ نـبـذة عـن الـمـكـتـبـة ↶ 🕸️﹞
 
@@ -36,7 +41,8 @@
 ## 📦 ──¤﹝ الـتـنـصـيـب ↶ 📥﹞
 
 ```bash
-git clone github:gjllljgkpmlkvvhomkhkmkghllk-commits/Baileys_Yono,
+git clone https://github.com/gjllljgkpmlkvvhomkhkmkghllk-commits/Baileys_Yono/edit/main/README.md
 cd GOJO-BOT
 npm i
 npm start
+
